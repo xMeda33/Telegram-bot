@@ -1,0 +1,11 @@
+{
+  "CS101": {
+    "1": "lectures/CS101_Lecture1.pdf",
+    "2": "lectures/CS101_Lecture2.pdf",
+    "3": "lectures/CS101_Lecture3.pdf"
+  },
+  "MATH202": {
+    "1": "lectures/Calculus_Basics.pdf",
+    "2": "lectures/Integrals.pdf"
+  }
+}
